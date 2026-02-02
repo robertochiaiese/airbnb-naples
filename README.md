@@ -5,7 +5,7 @@
 
 Using publicly available data from **Inside Airbnb**, I analyzed the Airbnb market in Naples to understand pricing dynamics, revenue distribution, and differences across neighbourhoods, room types, and property characteristics.  
 
-The project involved extensive data cleaning and transformation using **Excel Power Query**, data modeling with **Excel Power Pivot**, and the development of an interactive **two-page dashboard**.  
+The project involved extensive data cleaning and transformation using **Excel Power Query**, **Excel Power Pivot** for the development of an interactive **two-page dashboard**.  
 
 The dashboard provides both a high-level market overview and a deeper analysis of **estimated revenue and occupancy patterns**, enabling stakeholders to explore how location, host type, and property features influence performance.
 
@@ -34,11 +34,11 @@ This project aims to answer the following questions:
 - Enriched and prepared the dataset using **Excel Power Query**
 
 ### Data Modeling  
-- Built relationships and calculated fields using **Excel Power Pivot**  
+- Built relationships and calculated fields 
 - Created measures for pricing, estimated occupancy, and estimated revenue  
 
 ### Dashboard Development  
-- Designed a **two-page interactive dashboard**:  
+- By using  **Excel Power Pivot** it was designed a **two-page interactive dashboard**:  
   - **Page 1:** Market overview and pricing analysis  
   - **Page 2:** Estimated revenue and occupancy analysis  
 - Implemented slicers to explore data by host type, property type, and host verification status  
@@ -47,22 +47,8 @@ This project aims to answer the following questions:
 
 ## Skills  
 
-### Excel Power Query  
-- Data cleaning  
-- Data transformation  
-- Handling missing values  
-- Standardization and enrichment  
-
-### Excel Power Pivot  
-- Data modeling  
-- Calculated measures  
-- Aggregations and relationships  
-
-### Data Analysis & Visualization  
-- Pricing analysis  
-- Revenue analysis  
-- Exploratory analysis  
-- Interactive dashboards  
+- **Excel Power Query**: Data cleaning, Data transformation, Handling missing values, Standardization and enrichment  
+- **Excel Power Pivot**: Calculated measures, Data Analysis, Visualization Pricing analysis, Revenue analysis, Exploratory analysis, Interactive dashboards  
 
 ---
 
