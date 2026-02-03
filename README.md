@@ -55,10 +55,22 @@ This project aims to answer the following questions:
 ## Results & Business Recommendations
 
 ### Key Results
-- **Entire homes/apartments** generate the highest share of estimated annual revenue, far outperforming private and shared rooms.  
-- **Superhosts** achieve higher estimated occupancy and revenue compared to basic hosts, highlighting the importance of trust and host credibility.  
-- **Listings accommodating 2–4 guests** represent the most demanded segment in terms of occupancy.  
+- **Entire homes/apartments** generate the highest share of estimated annual revenue, far outperforming private and shared rooms.
+<img width="1092" height="458" alt="image" src="https://github.com/user-attachments/assets/0055b09f-bb8e-489a-96e1-1aa0602f30e7" />
+
+
+- **Superhosts** achieve higher estimated occupancy and revenue compared to basic hosts, highlighting the importance of trust and host credibility.
+<img width="659" height="452" alt="image" src="https://github.com/user-attachments/assets/326f279b-5b13-44b8-b183-8811f6567771" />
+
+ 
+- **Listings accommodating 2–4 guests** represent the most demanded segment in terms of occupancy.
+<img width="601" height="432" alt="image" src="https://github.com/user-attachments/assets/6994957a-eb3d-40fb-ac9a-5555cfa48875" />
+
+ 
 - **Property type** strongly influences revenue potential, with entire apartments, condos, and villas showing the highest average estimated revenue.  
+<img width="1279" height="409" alt="image" src="https://github.com/user-attachments/assets/ebd9a0df-5032-4c1e-b6f4-77be89859b29" />
+
+
 
 ### Business Recommendations
 - **Prioritize entire-property listings**: New or prospective hosts should focus on entire homes or apartments rather than shared or private rooms.  
